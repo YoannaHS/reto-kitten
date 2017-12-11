@@ -1,0 +1,18 @@
+Responsive - Viewport
+. <source>
+	Lee el código dentro de HTML/nos permite ver la imagen según el dispositivo.
+
+.Display Flex:
+	Trabaja según su estructura, primero tenemos que saber a quien se le aplica, se le aplica al contenedor y afecta al <item>
+	
+.Primero maqueta en "First movil"
+
+.Background-size: auto  100vh --> VH(viewport heigth)
+
+.Initial - scale: Me permite ver la página según el zoom especificado. ejm: 100%-->1.0
+
+.Justify-content: Centra el contenido(imagen)
+
+.alain-itmes:flex-end: para alinearlo abajo
+
+Rcuerda el COSTO AL CARGAR TU PÁGINA WEB 
